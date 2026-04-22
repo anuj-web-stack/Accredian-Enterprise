@@ -6,8 +6,8 @@ A pixel-faithful, fully responsive recreation of the [Accredian Enterprise](http
 
 ## 🚀 Live Demo
 
-> **Vercel:** `https://accredian-enterprise-[your-username].vercel.app`
-> **GitHub:** `https://github.com/[your-username]/accredian-enterprise`
+> **Vercel:** https://accredian-enterprise-app.vercel.app/
+> **GitHub:** https://github.com/anuj-web-stack/Accredian-Enterprise.git
 
 ---
 
@@ -21,7 +21,7 @@ A pixel-faithful, fully responsive recreation of the [Accredian Enterprise](http
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/[your-username]/accredian-enterprise.git
+git 
 cd accredian-enterprise
 
 # 2. Install dependencies
@@ -32,27 +32,6 @@ npm run dev
 
 # 4. Open http://localhost:3000
 ```
-
-### Build for production
-
-```bash
-npm run build
-npm start
-```
-
-### Deploy to Vercel
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --prod
-```
-
-Or connect the GitHub repo directly at [vercel.com/new](https://vercel.com/new).
-
----
 
 ## 🏗️ Architecture & Approach
 
